@@ -1,0 +1,21 @@
+.navbar {
+    background-color: #039BE5;
+    color: white;
+    height: 10%;
+}
+
+.new-task-button {
+    height: 30px;
+    margin-right: 10px;
+}
+
+.task-cards .card {
+    margin: 10px;
+}
+
+.input-group-text {
+    width: 100px;
+}
+/* .task-cards .card:nth-child(2){
+    background-color: #F9F9F9;
+} */
